@@ -51,5 +51,95 @@ namespace Crypto
         {
 
         }
+
+        private void guna2HtmlLabel18_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel24_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel28_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel26_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel19_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel43_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel41_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel40_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2Button7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel38_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel34_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
