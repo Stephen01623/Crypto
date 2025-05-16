@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="dash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Registerpage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="wallet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
