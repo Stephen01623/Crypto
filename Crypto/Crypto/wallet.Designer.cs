@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges43 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges44 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges41 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges42 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges29 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges30 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges27 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges28 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
@@ -41,7 +41,6 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges17 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges18 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(wallet));
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
@@ -50,36 +49,23 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges13 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges15 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(wallet));
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges16 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges39 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges40 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges19 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges20 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges25 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges26 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges21 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges22 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges23 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges24 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges25 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges26 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges27 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges28 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges29 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges30 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges31 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges32 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges33 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges34 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges35 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges36 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges37 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges38 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges19 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges20 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             dashpanel = new Guna.UI2.WinForms.Guna2Panel();
             guna2GradientPanel2 = new Guna.UI2.WinForms.Guna2GradientPanel();
             guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
+            guna2HtmlLabel43 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             guna2HtmlLabel42 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel40 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel43 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2Panel5 = new Guna.UI2.WinForms.Guna2Panel();
             guna2HtmlLabel44 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2Panel10 = new Guna.UI2.WinForms.Guna2Panel();
@@ -114,31 +100,24 @@
             guna2HtmlLabel28 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel32 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
-            guna2Button10 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button9 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button8 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button7 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button6 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button5 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
-            guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
             guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
-            guna2HtmlLabel18 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel17 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel16 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel15 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel14 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel13 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel12 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel11 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel10 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel9 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel8 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel7 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel5 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2ContextMenuStrip1 = new Guna.UI2.WinForms.Guna2ContextMenuStrip();
+            guna2Panel4 = new Guna.UI2.WinForms.Guna2Panel();
+            guna2HtmlLabel10 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            guna2HtmlLabel11 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            guna2HtmlLabel12 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            guna2HtmlLabel13 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            guna2HtmlLabel14 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            guna2HtmlLabel16 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            guna2HtmlLabel17 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            guna2HtmlLabel18 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             dashpanel.SuspendLayout();
             guna2GradientPanel2.SuspendLayout();
             guna2Panel2.SuspendLayout();
@@ -151,6 +130,7 @@
             ((System.ComponentModel.ISupportInitialize)guna2PictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)guna2PictureBox2).BeginInit();
             guna2Panel3.SuspendLayout();
+            guna2Panel4.SuspendLayout();
             SuspendLayout();
             // 
             // dashpanel
@@ -158,11 +138,11 @@
             dashpanel.BackColor = Color.FromArgb(34, 35, 37);
             dashpanel.BorderRadius = 30;
             dashpanel.Controls.Add(guna2GradientPanel2);
-            dashpanel.CustomizableEdges = customizableEdges43;
+            dashpanel.CustomizableEdges = customizableEdges29;
             dashpanel.Dock = DockStyle.Fill;
             dashpanel.Location = new Point(0, 0);
             dashpanel.Name = "dashpanel";
-            dashpanel.ShadowDecoration.CustomizableEdges = customizableEdges44;
+            dashpanel.ShadowDecoration.CustomizableEdges = customizableEdges30;
             dashpanel.Size = new Size(1197, 795);
             dashpanel.TabIndex = 9;
             // 
@@ -174,12 +154,12 @@
             guna2GradientPanel2.Controls.Add(guna2Panel10);
             guna2GradientPanel2.Controls.Add(guna2Panel3);
             guna2GradientPanel2.Controls.Add(guna2HtmlLabel1);
-            guna2GradientPanel2.CustomizableEdges = customizableEdges41;
+            guna2GradientPanel2.CustomizableEdges = customizableEdges27;
             guna2GradientPanel2.FillColor = Color.FromArgb(34, 35, 37);
             guna2GradientPanel2.FillColor2 = Color.FromArgb(34, 35, 37);
             guna2GradientPanel2.Location = new Point(12, 24);
             guna2GradientPanel2.Name = "guna2GradientPanel2";
-            guna2GradientPanel2.ShadowDecoration.CustomizableEdges = customizableEdges42;
+            guna2GradientPanel2.ShadowDecoration.CustomizableEdges = customizableEdges28;
             guna2GradientPanel2.Size = new Size(1143, 733);
             guna2GradientPanel2.TabIndex = 3;
             // 
@@ -192,11 +172,23 @@
             guna2Panel2.Controls.Add(guna2Panel5);
             guna2Panel2.CustomizableEdges = customizableEdges5;
             guna2Panel2.FillColor = Color.FromArgb(60, 63, 64);
-            guna2Panel2.Location = new Point(723, 96);
+            guna2Panel2.Location = new Point(722, 3);
             guna2Panel2.Name = "guna2Panel2";
             guna2Panel2.ShadowDecoration.CustomizableEdges = customizableEdges6;
             guna2Panel2.Size = new Size(397, 259);
             guna2Panel2.TabIndex = 22;
+            // 
+            // guna2HtmlLabel43
+            // 
+            guna2HtmlLabel43.BackColor = Color.Transparent;
+            guna2HtmlLabel43.Font = new Font("Times New Roman", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            guna2HtmlLabel43.ForeColor = SystemColors.Info;
+            guna2HtmlLabel43.Location = new Point(116, 87);
+            guna2HtmlLabel43.Name = "guna2HtmlLabel43";
+            guna2HtmlLabel43.Size = new Size(172, 39);
+            guna2HtmlLabel43.TabIndex = 25;
+            guna2HtmlLabel43.Text = "$289,569.04";
+            guna2HtmlLabel43.Click += guna2HtmlLabel43_Click;
             // 
             // guna2Panel1
             // 
@@ -232,18 +224,6 @@
             guna2HtmlLabel40.TabIndex = 24;
             guna2HtmlLabel40.Text = "Available Balance";
             guna2HtmlLabel40.Click += guna2HtmlLabel40_Click;
-            // 
-            // guna2HtmlLabel43
-            // 
-            guna2HtmlLabel43.BackColor = Color.Transparent;
-            guna2HtmlLabel43.Font = new Font("Times New Roman", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2HtmlLabel43.ForeColor = SystemColors.Info;
-            guna2HtmlLabel43.Location = new Point(116, 87);
-            guna2HtmlLabel43.Name = "guna2HtmlLabel43";
-            guna2HtmlLabel43.Size = new Size(172, 39);
-            guna2HtmlLabel43.TabIndex = 25;
-            guna2HtmlLabel43.Text = "$289,569.04";
-            guna2HtmlLabel43.Click += guna2HtmlLabel43_Click;
             // 
             // guna2Panel5
             // 
@@ -303,10 +283,10 @@
             guna2Panel10.Controls.Add(guna2HtmlLabel32);
             guna2Panel10.CustomizableEdges = customizableEdges17;
             guna2Panel10.FillColor = Color.FromArgb(60, 63, 64);
-            guna2Panel10.Location = new Point(3, 389);
+            guna2Panel10.Location = new Point(3, 421);
             guna2Panel10.Name = "guna2Panel10";
             guna2Panel10.ShadowDecoration.CustomizableEdges = customizableEdges18;
-            guna2Panel10.Size = new Size(703, 306);
+            guna2Panel10.Size = new Size(703, 309);
             guna2Panel10.TabIndex = 20;
             // 
             // guna2HtmlLabel39
@@ -491,7 +471,6 @@
             // guna2PictureBox5
             // 
             guna2PictureBox5.CustomizableEdges = customizableEdges7;
-            guna2PictureBox5.Image = (Image)resources.GetObject("guna2PictureBox5.Image");
             guna2PictureBox5.ImageRotate = 0F;
             guna2PictureBox5.Location = new Point(41, 247);
             guna2PictureBox5.Name = "guna2PictureBox5";
@@ -516,7 +495,6 @@
             // guna2PictureBox4
             // 
             guna2PictureBox4.CustomizableEdges = customizableEdges9;
-            guna2PictureBox4.Image = (Image)resources.GetObject("guna2PictureBox4.Image");
             guna2PictureBox4.ImageRotate = 0F;
             guna2PictureBox4.Location = new Point(43, 199);
             guna2PictureBox4.Name = "guna2PictureBox4";
@@ -540,7 +518,6 @@
             // guna2PictureBox3
             // 
             guna2PictureBox3.CustomizableEdges = customizableEdges11;
-            guna2PictureBox3.Image = (Image)resources.GetObject("guna2PictureBox3.Image");
             guna2PictureBox3.ImageRotate = 0F;
             guna2PictureBox3.Location = new Point(33, 141);
             guna2PictureBox3.Name = "guna2PictureBox3";
@@ -554,7 +531,6 @@
             // 
             guna2PictureBox1.CustomizableEdges = customizableEdges13;
             guna2PictureBox1.FillColor = SystemColors.Window;
-            guna2PictureBox1.Image = (Image)resources.GetObject("guna2PictureBox1.Image");
             guna2PictureBox1.ImageRotate = 0F;
             guna2PictureBox1.Location = new Point(43, 99);
             guna2PictureBox1.Name = "guna2PictureBox1";
@@ -657,325 +633,93 @@
             // 
             // guna2Panel3
             // 
-            guna2Panel3.BorderRadius = 30;
-            guna2Panel3.Controls.Add(guna2Button10);
-            guna2Panel3.Controls.Add(guna2Button9);
-            guna2Panel3.Controls.Add(guna2Button8);
-            guna2Panel3.Controls.Add(guna2Button7);
-            guna2Panel3.Controls.Add(guna2Button6);
-            guna2Panel3.Controls.Add(guna2Button5);
-            guna2Panel3.Controls.Add(guna2Button4);
-            guna2Panel3.Controls.Add(guna2Button3);
-            guna2Panel3.Controls.Add(guna2Button2);
-            guna2Panel3.Controls.Add(guna2Button1);
+            guna2Panel3.BorderRadius = 3;
             guna2Panel3.Controls.Add(guna2HtmlLabel18);
             guna2Panel3.Controls.Add(guna2HtmlLabel17);
             guna2Panel3.Controls.Add(guna2HtmlLabel16);
-            guna2Panel3.Controls.Add(guna2HtmlLabel15);
             guna2Panel3.Controls.Add(guna2HtmlLabel14);
             guna2Panel3.Controls.Add(guna2HtmlLabel13);
             guna2Panel3.Controls.Add(guna2HtmlLabel12);
             guna2Panel3.Controls.Add(guna2HtmlLabel11);
             guna2Panel3.Controls.Add(guna2HtmlLabel10);
+            guna2Panel3.Controls.Add(guna2Panel4);
+            guna2Panel3.Controls.Add(guna2Button2);
+            guna2Panel3.Controls.Add(guna2Button1);
+            guna2Panel3.Controls.Add(guna2HtmlLabel15);
             guna2Panel3.Controls.Add(guna2HtmlLabel9);
-            guna2Panel3.Controls.Add(guna2HtmlLabel8);
-            guna2Panel3.Controls.Add(guna2HtmlLabel7);
-            guna2Panel3.Controls.Add(guna2HtmlLabel5);
-            guna2Panel3.CustomizableEdges = customizableEdges39;
+            guna2Panel3.CustomizableEdges = customizableEdges25;
             guna2Panel3.FillColor = Color.FromArgb(60, 63, 64);
-            guna2Panel3.Location = new Point(3, 91);
+            guna2Panel3.Location = new Point(3, 3);
             guna2Panel3.Name = "guna2Panel3";
-            guna2Panel3.ShadowDecoration.CustomizableEdges = customizableEdges40;
-            guna2Panel3.Size = new Size(703, 264);
+            guna2Panel3.ShadowDecoration.CustomizableEdges = customizableEdges26;
+            guna2Panel3.Size = new Size(703, 304);
             guna2Panel3.TabIndex = 10;
-            // 
-            // guna2Button10
-            // 
-            guna2Button10.CustomizableEdges = customizableEdges19;
-            guna2Button10.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button10.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button10.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button10.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button10.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2Button10.ForeColor = Color.White;
-            guna2Button10.Location = new Point(580, 203);
-            guna2Button10.Name = "guna2Button10";
-            guna2Button10.ShadowDecoration.CustomizableEdges = customizableEdges20;
-            guna2Button10.Size = new Size(81, 30);
-            guna2Button10.TabIndex = 23;
-            guna2Button10.Text = "Sell";
-            guna2Button10.Click += guna2Button10_Click;
-            // 
-            // guna2Button9
-            // 
-            guna2Button9.CustomizableEdges = customizableEdges21;
-            guna2Button9.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button9.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button9.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button9.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button9.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2Button9.ForeColor = Color.White;
-            guna2Button9.Location = new Point(580, 165);
-            guna2Button9.Name = "guna2Button9";
-            guna2Button9.ShadowDecoration.CustomizableEdges = customizableEdges22;
-            guna2Button9.Size = new Size(81, 30);
-            guna2Button9.TabIndex = 22;
-            guna2Button9.Text = "Sell";
-            // 
-            // guna2Button8
-            // 
-            guna2Button8.CustomizableEdges = customizableEdges23;
-            guna2Button8.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button8.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button8.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button8.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button8.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2Button8.ForeColor = Color.White;
-            guna2Button8.Location = new Point(437, 203);
-            guna2Button8.Name = "guna2Button8";
-            guna2Button8.ShadowDecoration.CustomizableEdges = customizableEdges24;
-            guna2Button8.Size = new Size(81, 30);
-            guna2Button8.TabIndex = 21;
-            guna2Button8.Text = "Buy ";
-            // 
-            // guna2Button7
-            // 
-            guna2Button7.CustomizableEdges = customizableEdges25;
-            guna2Button7.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button7.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button7.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button7.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button7.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2Button7.ForeColor = Color.White;
-            guna2Button7.Location = new Point(437, 165);
-            guna2Button7.Name = "guna2Button7";
-            guna2Button7.ShadowDecoration.CustomizableEdges = customizableEdges26;
-            guna2Button7.Size = new Size(81, 30);
-            guna2Button7.TabIndex = 20;
-            guna2Button7.Text = "Buy";
-            guna2Button7.Click += guna2Button7_Click;
-            // 
-            // guna2Button6
-            // 
-            guna2Button6.CustomizableEdges = customizableEdges27;
-            guna2Button6.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button6.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button6.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button6.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button6.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2Button6.ForeColor = Color.White;
-            guna2Button6.Location = new Point(580, 129);
-            guna2Button6.Name = "guna2Button6";
-            guna2Button6.ShadowDecoration.CustomizableEdges = customizableEdges28;
-            guna2Button6.Size = new Size(81, 30);
-            guna2Button6.TabIndex = 19;
-            guna2Button6.Text = "Sell";
-            guna2Button6.Click += guna2Button6_Click;
-            // 
-            // guna2Button5
-            // 
-            guna2Button5.CustomizableEdges = customizableEdges29;
-            guna2Button5.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button5.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button5.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button5.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button5.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2Button5.ForeColor = Color.White;
-            guna2Button5.Location = new Point(437, 126);
-            guna2Button5.Name = "guna2Button5";
-            guna2Button5.ShadowDecoration.CustomizableEdges = customizableEdges30;
-            guna2Button5.Size = new Size(81, 30);
-            guna2Button5.TabIndex = 18;
-            guna2Button5.Text = "Buy";
-            // 
-            // guna2Button4
-            // 
-            guna2Button4.CustomizableEdges = customizableEdges31;
-            guna2Button4.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button4.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button4.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button4.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button4.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2Button4.ForeColor = Color.White;
-            guna2Button4.Location = new Point(580, 92);
-            guna2Button4.Name = "guna2Button4";
-            guna2Button4.ShadowDecoration.CustomizableEdges = customizableEdges32;
-            guna2Button4.Size = new Size(81, 30);
-            guna2Button4.TabIndex = 17;
-            guna2Button4.Text = "Sell";
-            // 
-            // guna2Button3
-            // 
-            guna2Button3.CustomizableEdges = customizableEdges33;
-            guna2Button3.DisabledState.BorderColor = Color.DarkGray;
-            guna2Button3.DisabledState.CustomBorderColor = Color.DarkGray;
-            guna2Button3.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            guna2Button3.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            guna2Button3.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2Button3.ForeColor = Color.White;
-            guna2Button3.Location = new Point(437, 85);
-            guna2Button3.Name = "guna2Button3";
-            guna2Button3.ShadowDecoration.CustomizableEdges = customizableEdges34;
-            guna2Button3.Size = new Size(81, 30);
-            guna2Button3.TabIndex = 16;
-            guna2Button3.Text = "Buy";
-            guna2Button3.Click += guna2Button3_Click;
             // 
             // guna2Button2
             // 
-            guna2Button2.CustomizableEdges = customizableEdges35;
+            guna2Button2.BorderRadius = 10;
+            guna2Button2.CustomizableEdges = customizableEdges21;
             guna2Button2.DisabledState.BorderColor = Color.DarkGray;
             guna2Button2.DisabledState.CustomBorderColor = Color.DarkGray;
             guna2Button2.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             guna2Button2.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             guna2Button2.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button2.ForeColor = Color.White;
-            guna2Button2.Location = new Point(580, 49);
+            guna2Button2.Location = new Point(582, 80);
             guna2Button2.Name = "guna2Button2";
-            guna2Button2.ShadowDecoration.CustomizableEdges = customizableEdges36;
+            guna2Button2.ShadowDecoration.CustomizableEdges = customizableEdges22;
             guna2Button2.Size = new Size(81, 30);
             guna2Button2.TabIndex = 15;
             guna2Button2.Text = "Sell";
             // 
             // guna2Button1
             // 
-            guna2Button1.CustomizableEdges = customizableEdges37;
+            guna2Button1.BorderRadius = 10;
+            guna2Button1.CustomizableEdges = customizableEdges23;
             guna2Button1.DisabledState.BorderColor = Color.DarkGray;
             guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray;
             guna2Button1.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
             guna2Button1.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             guna2Button1.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button1.ForeColor = Color.White;
-            guna2Button1.Location = new Point(437, 49);
+            guna2Button1.Location = new Point(481, 80);
             guna2Button1.Name = "guna2Button1";
-            guna2Button1.ShadowDecoration.CustomizableEdges = customizableEdges38;
+            guna2Button1.ShadowDecoration.CustomizableEdges = customizableEdges24;
             guna2Button1.Size = new Size(81, 30);
             guna2Button1.TabIndex = 14;
             guna2Button1.Text = "Buy";
             // 
-            // guna2HtmlLabel18
-            // 
-            guna2HtmlLabel18.BackColor = Color.Transparent;
-            guna2HtmlLabel18.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel18.ForeColor = SystemColors.Info;
-            guna2HtmlLabel18.Location = new Point(222, 135);
-            guna2HtmlLabel18.Name = "guna2HtmlLabel18";
-            guna2HtmlLabel18.Size = new Size(65, 21);
-            guna2HtmlLabel18.TabIndex = 13;
-            guna2HtmlLabel18.Text = "$ 172.19";
-            guna2HtmlLabel18.Click += guna2HtmlLabel18_Click;
-            // 
-            // guna2HtmlLabel17
-            // 
-            guna2HtmlLabel17.BackColor = Color.Transparent;
-            guna2HtmlLabel17.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel17.ForeColor = SystemColors.Info;
-            guna2HtmlLabel17.Location = new Point(222, 212);
-            guna2HtmlLabel17.Name = "guna2HtmlLabel17";
-            guna2HtmlLabel17.Size = new Size(47, 21);
-            guna2HtmlLabel17.TabIndex = 12;
-            guna2HtmlLabel17.Text = "$ 2.43";
-            // 
-            // guna2HtmlLabel16
-            // 
-            guna2HtmlLabel16.BackColor = Color.Transparent;
-            guna2HtmlLabel16.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel16.ForeColor = SystemColors.Info;
-            guna2HtmlLabel16.Location = new Point(221, 174);
-            guna2HtmlLabel16.Name = "guna2HtmlLabel16";
-            guna2HtmlLabel16.Size = new Size(78, 21);
-            guna2HtmlLabel16.TabIndex = 11;
-            guna2HtmlLabel16.Text = "$ 2,623.04";
-            // 
             // guna2HtmlLabel15
             // 
             guna2HtmlLabel15.BackColor = Color.Transparent;
-            guna2HtmlLabel15.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel15.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel15.ForeColor = SystemColors.Info;
-            guna2HtmlLabel15.Location = new Point(222, 58);
+            guna2HtmlLabel15.Location = new Point(229, 76);
             guna2HtmlLabel15.Name = "guna2HtmlLabel15";
-            guna2HtmlLabel15.Size = new Size(96, 21);
+            guna2HtmlLabel15.Size = new Size(101, 33);
             guna2HtmlLabel15.TabIndex = 10;
-            guna2HtmlLabel15.Text = "$ 103,832.57";
+            guna2HtmlLabel15.Text = "$ 200,22";
             guna2HtmlLabel15.Click += guna2HtmlLabel15_Click;
-            // 
-            // guna2HtmlLabel14
-            // 
-            guna2HtmlLabel14.BackColor = Color.Transparent;
-            guna2HtmlLabel14.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel14.ForeColor = SystemColors.Info;
-            guna2HtmlLabel14.Location = new Point(222, 94);
-            guna2HtmlLabel14.Name = "guna2HtmlLabel14";
-            guna2HtmlLabel14.Size = new Size(65, 21);
-            guna2HtmlLabel14.TabIndex = 9;
-            guna2HtmlLabel14.Text = "$ 656.20";
-            // 
-            // guna2HtmlLabel13
-            // 
-            guna2HtmlLabel13.BackColor = Color.Transparent;
-            guna2HtmlLabel13.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel13.ForeColor = SystemColors.Info;
-            guna2HtmlLabel13.Location = new Point(47, 212);
-            guna2HtmlLabel13.Name = "guna2HtmlLabel13";
-            guna2HtmlLabel13.Size = new Size(38, 21);
-            guna2HtmlLabel13.TabIndex = 8;
-            guna2HtmlLabel13.Text = "XRP";
-            // 
-            // guna2HtmlLabel12
-            // 
-            guna2HtmlLabel12.BackColor = Color.Transparent;
-            guna2HtmlLabel12.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel12.ForeColor = SystemColors.Info;
-            guna2HtmlLabel12.Location = new Point(47, 174);
-            guna2HtmlLabel12.Name = "guna2HtmlLabel12";
-            guna2HtmlLabel12.Size = new Size(36, 21);
-            guna2HtmlLabel12.TabIndex = 7;
-            guna2HtmlLabel12.Text = "SOL";
-            guna2HtmlLabel12.Click += guna2HtmlLabel12_Click;
-            // 
-            // guna2HtmlLabel11
-            // 
-            guna2HtmlLabel11.BackColor = Color.Transparent;
-            guna2HtmlLabel11.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel11.ForeColor = SystemColors.Info;
-            guna2HtmlLabel11.Location = new Point(47, 135);
-            guna2HtmlLabel11.Name = "guna2HtmlLabel11";
-            guna2HtmlLabel11.Size = new Size(39, 21);
-            guna2HtmlLabel11.TabIndex = 6;
-            guna2HtmlLabel11.Text = "BNB";
-            guna2HtmlLabel11.Click += guna2HtmlLabel11_Click;
-            // 
-            // guna2HtmlLabel10
-            // 
-            guna2HtmlLabel10.BackColor = Color.Transparent;
-            guna2HtmlLabel10.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel10.ForeColor = SystemColors.Info;
-            guna2HtmlLabel10.Location = new Point(49, 98);
-            guna2HtmlLabel10.Name = "guna2HtmlLabel10";
-            guna2HtmlLabel10.Size = new Size(37, 21);
-            guna2HtmlLabel10.TabIndex = 5;
-            guna2HtmlLabel10.Text = "ETH";
-            guna2HtmlLabel10.Click += guna2HtmlLabel10_Click;
             // 
             // guna2HtmlLabel9
             // 
             guna2HtmlLabel9.BackColor = Color.Transparent;
-            guna2HtmlLabel9.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel9.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel9.ForeColor = SystemColors.Info;
-            guna2HtmlLabel9.Location = new Point(49, 58);
+            guna2HtmlLabel9.Location = new Point(47, 77);
             guna2HtmlLabel9.Name = "guna2HtmlLabel9";
-            guna2HtmlLabel9.Size = new Size(37, 21);
+            guna2HtmlLabel9.Size = new Size(59, 33);
             guna2HtmlLabel9.TabIndex = 4;
             guna2HtmlLabel9.Text = "BTC";
             // 
             // guna2HtmlLabel8
             // 
             guna2HtmlLabel8.BackColor = Color.Transparent;
-            guna2HtmlLabel8.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel8.Font = new Font("Times New Roman", 22F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel8.ForeColor = SystemColors.Info;
-            guna2HtmlLabel8.Location = new Point(512, 14);
+            guna2HtmlLabel8.Location = new Point(513, 4);
             guna2HtmlLabel8.Name = "guna2HtmlLabel8";
-            guna2HtmlLabel8.Size = new Size(68, 27);
+            guna2HtmlLabel8.Size = new Size(107, 44);
             guna2HtmlLabel8.TabIndex = 3;
             guna2HtmlLabel8.Text = "Action";
             guna2HtmlLabel8.Click += guna2HtmlLabel8_Click;
@@ -983,11 +727,11 @@
             // guna2HtmlLabel7
             // 
             guna2HtmlLabel7.BackColor = Color.Transparent;
-            guna2HtmlLabel7.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel7.Font = new Font("Times New Roman", 22F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel7.ForeColor = SystemColors.Info;
-            guna2HtmlLabel7.Location = new Point(221, 14);
+            guna2HtmlLabel7.Location = new Point(234, 4);
             guna2HtmlLabel7.Name = "guna2HtmlLabel7";
-            guna2HtmlLabel7.Size = new Size(81, 27);
+            guna2HtmlLabel7.Size = new Size(131, 44);
             guna2HtmlLabel7.TabIndex = 2;
             guna2HtmlLabel7.Text = "Holding";
             guna2HtmlLabel7.Click += guna2HtmlLabel7_Click;
@@ -995,11 +739,11 @@
             // guna2HtmlLabel5
             // 
             guna2HtmlLabel5.BackColor = Color.Transparent;
-            guna2HtmlLabel5.Font = new Font("Times New Roman", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel5.Font = new Font("Times New Roman", 22.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel5.ForeColor = SystemColors.Info;
-            guna2HtmlLabel5.Location = new Point(43, 14);
+            guna2HtmlLabel5.Location = new Point(22, 4);
             guna2HtmlLabel5.Name = "guna2HtmlLabel5";
-            guna2HtmlLabel5.Size = new Size(56, 27);
+            guna2HtmlLabel5.Size = new Size(86, 44);
             guna2HtmlLabel5.TabIndex = 0;
             guna2HtmlLabel5.Text = "Asset";
             // 
@@ -1029,6 +773,110 @@
             guna2ContextMenuStrip1.RenderStyle.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
             guna2ContextMenuStrip1.Size = new Size(61, 4);
             // 
+            // guna2Panel4
+            // 
+            guna2Panel4.Controls.Add(guna2HtmlLabel8);
+            guna2Panel4.Controls.Add(guna2HtmlLabel7);
+            guna2Panel4.Controls.Add(guna2HtmlLabel5);
+            guna2Panel4.CustomBorderColor = Color.White;
+            guna2Panel4.CustomBorderThickness = new Padding(0, 0, 0, 2);
+            guna2Panel4.CustomizableEdges = customizableEdges19;
+            guna2Panel4.Dock = DockStyle.Top;
+            guna2Panel4.Font = new Font("Segoe UI", 9F);
+            guna2Panel4.Location = new Point(0, 0);
+            guna2Panel4.Name = "guna2Panel4";
+            guna2Panel4.ShadowDecoration.CustomizableEdges = customizableEdges20;
+            guna2Panel4.Size = new Size(703, 57);
+            guna2Panel4.TabIndex = 24;
+            // 
+            // guna2HtmlLabel10
+            // 
+            guna2HtmlLabel10.BackColor = Color.Transparent;
+            guna2HtmlLabel10.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel10.ForeColor = SystemColors.Info;
+            guna2HtmlLabel10.Location = new Point(45, 116);
+            guna2HtmlLabel10.Name = "guna2HtmlLabel10";
+            guna2HtmlLabel10.Size = new Size(60, 33);
+            guna2HtmlLabel10.TabIndex = 25;
+            guna2HtmlLabel10.Text = "ETH";
+            // 
+            // guna2HtmlLabel11
+            // 
+            guna2HtmlLabel11.BackColor = Color.Transparent;
+            guna2HtmlLabel11.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel11.ForeColor = SystemColors.Info;
+            guna2HtmlLabel11.Location = new Point(223, 115);
+            guna2HtmlLabel11.Name = "guna2HtmlLabel11";
+            guna2HtmlLabel11.Size = new Size(150, 33);
+            guna2HtmlLabel11.TabIndex = 26;
+            guna2HtmlLabel11.Text = "$ 103,832.57";
+            // 
+            // guna2HtmlLabel12
+            // 
+            guna2HtmlLabel12.BackColor = Color.Transparent;
+            guna2HtmlLabel12.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel12.ForeColor = SystemColors.Info;
+            guna2HtmlLabel12.Location = new Point(44, 151);
+            guna2HtmlLabel12.Name = "guna2HtmlLabel12";
+            guna2HtmlLabel12.Size = new Size(57, 33);
+            guna2HtmlLabel12.TabIndex = 27;
+            guna2HtmlLabel12.Text = "SOL";
+            // 
+            // guna2HtmlLabel13
+            // 
+            guna2HtmlLabel13.BackColor = Color.Transparent;
+            guna2HtmlLabel13.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel13.ForeColor = SystemColors.Info;
+            guna2HtmlLabel13.Location = new Point(223, 155);
+            guna2HtmlLabel13.Name = "guna2HtmlLabel13";
+            guna2HtmlLabel13.Size = new Size(150, 33);
+            guna2HtmlLabel13.TabIndex = 28;
+            guna2HtmlLabel13.Text = "$ 123,500.24";
+            // 
+            // guna2HtmlLabel14
+            // 
+            guna2HtmlLabel14.BackColor = Color.Transparent;
+            guna2HtmlLabel14.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel14.ForeColor = SystemColors.Info;
+            guna2HtmlLabel14.Location = new Point(44, 188);
+            guna2HtmlLabel14.Name = "guna2HtmlLabel14";
+            guna2HtmlLabel14.Size = new Size(59, 33);
+            guna2HtmlLabel14.TabIndex = 29;
+            guna2HtmlLabel14.Text = "XRP";
+            // 
+            // guna2HtmlLabel16
+            // 
+            guna2HtmlLabel16.BackColor = Color.Transparent;
+            guna2HtmlLabel16.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel16.ForeColor = SystemColors.Info;
+            guna2HtmlLabel16.Location = new Point(220, 192);
+            guna2HtmlLabel16.Name = "guna2HtmlLabel16";
+            guna2HtmlLabel16.Size = new Size(150, 33);
+            guna2HtmlLabel16.TabIndex = 30;
+            guna2HtmlLabel16.Text = "$ 200,345.23";
+            // 
+            // guna2HtmlLabel17
+            // 
+            guna2HtmlLabel17.BackColor = Color.Transparent;
+            guna2HtmlLabel17.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel17.ForeColor = SystemColors.Info;
+            guna2HtmlLabel17.Location = new Point(43, 229);
+            guna2HtmlLabel17.Name = "guna2HtmlLabel17";
+            guna2HtmlLabel17.Size = new Size(55, 33);
+            guna2HtmlLabel17.TabIndex = 31;
+            guna2HtmlLabel17.Text = "SRP";
+            // 
+            // guna2HtmlLabel18
+            // 
+            guna2HtmlLabel18.BackColor = Color.Transparent;
+            guna2HtmlLabel18.Font = new Font("Times New Roman", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            guna2HtmlLabel18.ForeColor = SystemColors.Info;
+            guna2HtmlLabel18.Location = new Point(216, 226);
+            guna2HtmlLabel18.Name = "guna2HtmlLabel18";
+            guna2HtmlLabel18.Size = new Size(178, 33);
+            guna2HtmlLabel18.TabIndex = 32;
+            guna2HtmlLabel18.Text = "$ 22030,245.90";
+            // 
             // wallet
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -1056,6 +904,8 @@
             ((System.ComponentModel.ISupportInitialize)guna2PictureBox2).EndInit();
             guna2Panel3.ResumeLayout(false);
             guna2Panel3.PerformLayout();
+            guna2Panel4.ResumeLayout(false);
+            guna2Panel4.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -1069,16 +919,8 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel7;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel5;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel8;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel10;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel9;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel11;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel12;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel15;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel14;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel13;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel18;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel17;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel16;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel10;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel21;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel26;
@@ -1086,14 +928,6 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel32;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox2;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
-        private Guna.UI2.WinForms.Guna2Button guna2Button10;
-        private Guna.UI2.WinForms.Guna2Button guna2Button9;
-        private Guna.UI2.WinForms.Guna2Button guna2Button8;
-        private Guna.UI2.WinForms.Guna2Button guna2Button7;
-        private Guna.UI2.WinForms.Guna2Button guna2Button6;
-        private Guna.UI2.WinForms.Guna2Button guna2Button5;
-        private Guna.UI2.WinForms.Guna2Button guna2Button4;
-        private Guna.UI2.WinForms.Guna2Button guna2Button3;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel4;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
@@ -1127,5 +961,14 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel40;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel42;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel4;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel11;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel10;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel17;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel16;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel14;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel13;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel12;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel18;
     }
 }

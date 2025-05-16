@@ -57,7 +57,6 @@
             guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             dashpanel = new Guna.UI2.WinForms.Guna2Panel();
-            guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2GradientPanel2.SuspendLayout();
             guna2Panel2.SuspendLayout();
             guna2Panel1.SuspendLayout();
@@ -75,7 +74,7 @@
             guna2GradientPanel2.CustomizableEdges = customizableEdges13;
             guna2GradientPanel2.FillColor = Color.FromArgb(60, 63, 64);
             guna2GradientPanel2.FillColor2 = Color.FromArgb(60, 63, 64);
-            guna2GradientPanel2.Location = new Point(58, 62);
+            guna2GradientPanel2.Location = new Point(58, 27);
             guna2GradientPanel2.Name = "guna2GradientPanel2";
             guna2GradientPanel2.ShadowDecoration.CustomizableEdges = customizableEdges14;
             guna2GradientPanel2.Size = new Size(539, 565);
@@ -99,6 +98,7 @@
             guna2Button1.Size = new Size(468, 65);
             guna2Button1.TabIndex = 11;
             guna2Button1.Text = "Exchange";
+            guna2Button1.Click += guna2Button1_Click;
             // 
             // guna2Panel2
             // 
@@ -255,7 +255,6 @@
             // dashpanel
             // 
             dashpanel.BackColor = Color.FromArgb(34, 35, 37);
-            dashpanel.Controls.Add(guna2HtmlLabel1);
             dashpanel.Controls.Add(guna2GradientPanel2);
             dashpanel.CustomizableEdges = customizableEdges15;
             dashpanel.Dock = DockStyle.Fill;
@@ -265,17 +264,6 @@
             dashpanel.Size = new Size(1197, 795);
             dashpanel.TabIndex = 8;
             dashpanel.Paint += dashpanel_Paint;
-            // 
-            // guna2HtmlLabel1
-            // 
-            guna2HtmlLabel1.BackColor = Color.Transparent;
-            guna2HtmlLabel1.Font = new Font("Tahoma", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            guna2HtmlLabel1.ForeColor = SystemColors.GradientActiveCaption;
-            guna2HtmlLabel1.Location = new Point(37, 12);
-            guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            guna2HtmlLabel1.Size = new Size(94, 42);
-            guna2HtmlLabel1.TabIndex = 0;
-            guna2HtmlLabel1.Text = "Swap";
             // 
             // Exchange
             // 
@@ -292,7 +280,6 @@
             guna2Panel1.ResumeLayout(false);
             guna2Panel1.PerformLayout();
             dashpanel.ResumeLayout(false);
-            dashpanel.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -300,7 +287,6 @@
 
         private Guna.UI2.WinForms.Guna2GradientPanel guna2GradientPanel2;
         private Guna.UI2.WinForms.Guna2Panel dashpanel;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;

@@ -34,21 +34,25 @@ namespace Crypto
         private void dashbtn_Click(object sender, EventArgs e)
         {
             Showform(new dash());
+            changelb.Text = "DashBoard";
         }
 
         private void Exchbtn_Click(object sender, EventArgs e)
         {
             Showform(new Exchange());
+            changelb.Text = "Exchange";
         }
 
         private void wallbtn_Click(object sender, EventArgs e)
         {
             Showform(new wallet());
+            changelb.Text = "Wallet";
         }
 
         private void hisbtn_Click(object sender, EventArgs e)
         {
             Showform(new history());
+            changelb.Text = "History";
         }
 
         private void guna2ControlBox1_Click(object sender, EventArgs e)
