@@ -19,37 +19,7 @@ namespace Crypto
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            string email = emailtbox.Text;
-            string pass = passtbox.Text;
-
-            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(pass))
-            {
-                MessageBox.Show("Please fill in all fields.");
-                return;
-            }
-            if (!email.Contains("@"))
-            {
-                MessageBox.Show("Please enter a valid email address.");
-                return;
-            }
-            else if (!pass.Contains("@")) {
-                MessageBox.Show("Please enter a valid password.");
-                return;
-            }
-            else if (pass.Length < 8)
-            {
-                MessageBox.Show("Password must be at least 8 characters long.");
-                return;
-            }
-            else
-            {
-                Connection conn = new Connection();
-                conn.ValidateLogin(email, pass);
-                MessageBox.Show("Login Succesfull");
-                Dashboard dash = new Dashboard();   
-                dash.Show();
-
-            }
+           
 
             
            
@@ -117,7 +87,38 @@ namespace Crypto
 
         private void guna2Button1_Click_1(object sender, EventArgs e)
         {
+            string email = emailtbox.Text;
+            string pass = passtbox.Text;
 
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(pass))
+            {
+                MessageBox.Show("Please fill in all fields.");
+                return;
+            }
+           
+            
+            else if (pass.Length < 8)
+            {
+                MessageBox.Show("Password must be at least 8 characters long.");
+                return;
+            }
+            else
+            {
+                Connection conn = new Connection();
+                if (conn.ValidateLogin(email, pass))
+                {
+                    MessageBox.Show("Login Succesfull");
+                    Dashboard dash = new Dashboard();
+                    dash.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("Invalid email or password.");
+                }
+                
+
+            }
         }
     }
 }
