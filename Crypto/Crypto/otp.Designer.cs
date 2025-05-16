@@ -33,32 +33,33 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges15 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges16 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(components);
             guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
+            otptbox1 = new Guna.UI2.WinForms.Guna2TextBox();
             guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
-            guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox3 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox4 = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2TextBox5 = new Guna.UI2.WinForms.Guna2TextBox();
+            otptbox5 = new Guna.UI2.WinForms.Guna2TextBox();
+            otptbox4 = new Guna.UI2.WinForms.Guna2TextBox();
+            otptbox2 = new Guna.UI2.WinForms.Guna2TextBox();
+            otptbox3 = new Guna.UI2.WinForms.Guna2TextBox();
             guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
             guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             linkLabel1 = new LinkLabel();
             linkLabel2 = new LinkLabel();
+            guna2Elipse2 = new Guna.UI2.WinForms.Guna2Elipse(components);
             guna2GradientPanel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -78,35 +79,37 @@
             guna2HtmlLabel1.TabIndex = 0;
             guna2HtmlLabel1.Text = "OTP verification";
             // 
-            // guna2TextBox1
+            // otptbox1
             // 
-            guna2TextBox1.BorderColor = Color.Transparent;
-            guna2TextBox1.BorderRadius = 8;
-            guna2TextBox1.CustomizableEdges = customizableEdges13;
-            guna2TextBox1.DefaultText = "";
-            guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Font = new Font("Segoe UI", 9F);
-            guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox1.Location = new Point(36, 14);
-            guna2TextBox1.Margin = new Padding(3, 4, 3, 4);
-            guna2TextBox1.Name = "guna2TextBox1";
-            guna2TextBox1.PlaceholderText = "";
-            guna2TextBox1.SelectedText = "";
-            guna2TextBox1.ShadowDecoration.CustomizableEdges = customizableEdges14;
-            guna2TextBox1.Size = new Size(51, 53);
-            guna2TextBox1.TabIndex = 1;
+            otptbox1.BorderColor = Color.Transparent;
+            otptbox1.BorderRadius = 8;
+            otptbox1.CustomizableEdges = customizableEdges13;
+            otptbox1.DefaultText = "";
+            otptbox1.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            otptbox1.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            otptbox1.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            otptbox1.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            otptbox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox1.Font = new Font("Segoe UI", 9F);
+            otptbox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox1.Location = new Point(36, 14);
+            otptbox1.Margin = new Padding(3, 4, 3, 4);
+            otptbox1.MaxLength = 1;
+            otptbox1.Name = "otptbox1";
+            otptbox1.PlaceholderForeColor = Color.Black;
+            otptbox1.PlaceholderText = "";
+            otptbox1.SelectedText = "";
+            otptbox1.ShadowDecoration.CustomizableEdges = customizableEdges14;
+            otptbox1.Size = new Size(51, 53);
+            otptbox1.TabIndex = 0;
             // 
             // guna2GradientPanel1
             // 
-            guna2GradientPanel1.Controls.Add(guna2TextBox5);
-            guna2GradientPanel1.Controls.Add(guna2TextBox4);
-            guna2GradientPanel1.Controls.Add(guna2TextBox3);
-            guna2GradientPanel1.Controls.Add(guna2TextBox2);
-            guna2GradientPanel1.Controls.Add(guna2TextBox1);
+            guna2GradientPanel1.Controls.Add(otptbox5);
+            guna2GradientPanel1.Controls.Add(otptbox4);
+            guna2GradientPanel1.Controls.Add(otptbox2);
+            guna2GradientPanel1.Controls.Add(otptbox3);
+            guna2GradientPanel1.Controls.Add(otptbox1);
             guna2GradientPanel1.CustomizableEdges = customizableEdges15;
             guna2GradientPanel1.Location = new Point(12, 162);
             guna2GradientPanel1.Name = "guna2GradientPanel1";
@@ -115,95 +118,99 @@
             guna2GradientPanel1.TabIndex = 2;
             guna2GradientPanel1.Paint += guna2GradientPanel1_Paint;
             // 
-            // guna2TextBox2
+            // otptbox5
             // 
-            guna2TextBox2.BorderColor = Color.Transparent;
-            guna2TextBox2.BorderRadius = 8;
-            guna2TextBox2.CustomizableEdges = customizableEdges11;
-            guna2TextBox2.DefaultText = "";
-            guna2TextBox2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox2.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox2.Font = new Font("Segoe UI", 9F);
-            guna2TextBox2.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox2.Location = new Point(182, 14);
-            guna2TextBox2.Margin = new Padding(3, 4, 3, 4);
-            guna2TextBox2.Name = "guna2TextBox2";
-            guna2TextBox2.PlaceholderText = "";
-            guna2TextBox2.SelectedText = "";
-            guna2TextBox2.ShadowDecoration.CustomizableEdges = customizableEdges12;
-            guna2TextBox2.Size = new Size(51, 53);
-            guna2TextBox2.TabIndex = 2;
+            otptbox5.BorderColor = Color.Transparent;
+            otptbox5.BorderRadius = 8;
+            otptbox5.CustomizableEdges = customizableEdges5;
+            otptbox5.DefaultText = "";
+            otptbox5.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            otptbox5.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            otptbox5.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            otptbox5.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            otptbox5.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox5.Font = new Font("Segoe UI", 9F);
+            otptbox5.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox5.Location = new Point(322, 14);
+            otptbox5.Margin = new Padding(3, 4, 3, 4);
+            otptbox5.MaxLength = 1;
+            otptbox5.Name = "otptbox5";
+            otptbox5.PlaceholderText = "";
+            otptbox5.SelectedText = "";
+            otptbox5.ShadowDecoration.CustomizableEdges = customizableEdges6;
+            otptbox5.Size = new Size(51, 53);
+            otptbox5.TabIndex = 4;
             // 
-            // guna2TextBox3
+            // otptbox4
             // 
-            guna2TextBox3.BorderColor = Color.Transparent;
-            guna2TextBox3.BorderRadius = 8;
-            guna2TextBox3.CustomizableEdges = customizableEdges9;
-            guna2TextBox3.DefaultText = "";
-            guna2TextBox3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox3.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox3.Font = new Font("Segoe UI", 9F);
-            guna2TextBox3.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox3.Location = new Point(109, 14);
-            guna2TextBox3.Margin = new Padding(3, 4, 3, 4);
-            guna2TextBox3.Name = "guna2TextBox3";
-            guna2TextBox3.PlaceholderText = "";
-            guna2TextBox3.SelectedText = "";
-            guna2TextBox3.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            guna2TextBox3.Size = new Size(51, 53);
-            guna2TextBox3.TabIndex = 3;
-            guna2TextBox3.TextChanged += guna2TextBox3_TextChanged;
+            otptbox4.BorderColor = Color.Transparent;
+            otptbox4.BorderRadius = 8;
+            otptbox4.CustomizableEdges = customizableEdges7;
+            otptbox4.DefaultText = "";
+            otptbox4.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            otptbox4.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            otptbox4.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            otptbox4.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            otptbox4.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox4.Font = new Font("Segoe UI", 9F);
+            otptbox4.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox4.Location = new Point(252, 14);
+            otptbox4.Margin = new Padding(3, 4, 3, 4);
+            otptbox4.MaxLength = 1;
+            otptbox4.Name = "otptbox4";
+            otptbox4.PlaceholderText = "";
+            otptbox4.SelectedText = "";
+            otptbox4.ShadowDecoration.CustomizableEdges = customizableEdges8;
+            otptbox4.Size = new Size(51, 53);
+            otptbox4.TabIndex = 3;
+            otptbox4.TextChanged += guna2TextBox4_TextChanged;
             // 
-            // guna2TextBox4
+            // otptbox2
             // 
-            guna2TextBox4.BorderColor = Color.Transparent;
-            guna2TextBox4.BorderRadius = 8;
-            guna2TextBox4.CustomizableEdges = customizableEdges7;
-            guna2TextBox4.DefaultText = "";
-            guna2TextBox4.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox4.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox4.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox4.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox4.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox4.Font = new Font("Segoe UI", 9F);
-            guna2TextBox4.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox4.Location = new Point(252, 14);
-            guna2TextBox4.Margin = new Padding(3, 4, 3, 4);
-            guna2TextBox4.Name = "guna2TextBox4";
-            guna2TextBox4.PlaceholderText = "";
-            guna2TextBox4.SelectedText = "";
-            guna2TextBox4.ShadowDecoration.CustomizableEdges = customizableEdges8;
-            guna2TextBox4.Size = new Size(51, 53);
-            guna2TextBox4.TabIndex = 4;
-            guna2TextBox4.TextChanged += guna2TextBox4_TextChanged;
+            otptbox2.BorderColor = Color.Transparent;
+            otptbox2.BorderRadius = 8;
+            otptbox2.CustomizableEdges = customizableEdges9;
+            otptbox2.DefaultText = "";
+            otptbox2.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            otptbox2.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            otptbox2.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            otptbox2.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            otptbox2.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox2.Font = new Font("Segoe UI", 9F);
+            otptbox2.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox2.Location = new Point(109, 14);
+            otptbox2.Margin = new Padding(3, 4, 3, 4);
+            otptbox2.MaxLength = 1;
+            otptbox2.Name = "otptbox2";
+            otptbox2.PlaceholderText = "";
+            otptbox2.SelectedText = "";
+            otptbox2.ShadowDecoration.CustomizableEdges = customizableEdges10;
+            otptbox2.Size = new Size(51, 53);
+            otptbox2.TabIndex = 1;
+            otptbox2.TextChanged += guna2TextBox3_TextChanged;
             // 
-            // guna2TextBox5
+            // otptbox3
             // 
-            guna2TextBox5.BorderColor = Color.Transparent;
-            guna2TextBox5.BorderRadius = 8;
-            guna2TextBox5.CustomizableEdges = customizableEdges5;
-            guna2TextBox5.DefaultText = "";
-            guna2TextBox5.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            guna2TextBox5.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            guna2TextBox5.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox5.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            guna2TextBox5.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox5.Font = new Font("Segoe UI", 9F);
-            guna2TextBox5.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2TextBox5.Location = new Point(322, 14);
-            guna2TextBox5.Margin = new Padding(3, 4, 3, 4);
-            guna2TextBox5.Name = "guna2TextBox5";
-            guna2TextBox5.PlaceholderText = "";
-            guna2TextBox5.SelectedText = "";
-            guna2TextBox5.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            guna2TextBox5.Size = new Size(51, 53);
-            guna2TextBox5.TabIndex = 5;
+            otptbox3.BorderColor = Color.Transparent;
+            otptbox3.BorderRadius = 8;
+            otptbox3.CustomizableEdges = customizableEdges11;
+            otptbox3.DefaultText = "";
+            otptbox3.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
+            otptbox3.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
+            otptbox3.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
+            otptbox3.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
+            otptbox3.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox3.Font = new Font("Segoe UI", 9F);
+            otptbox3.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            otptbox3.Location = new Point(182, 14);
+            otptbox3.Margin = new Padding(3, 4, 3, 4);
+            otptbox3.MaxLength = 1;
+            otptbox3.Name = "otptbox3";
+            otptbox3.PlaceholderText = "";
+            otptbox3.SelectedText = "";
+            otptbox3.ShadowDecoration.CustomizableEdges = customizableEdges12;
+            otptbox3.Size = new Size(51, 53);
+            otptbox3.TabIndex = 2;
             // 
             // guna2Button1
             // 
@@ -312,17 +319,18 @@
 
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse1;
         private Guna.UI2.WinForms.Guna2GradientPanel guna2GradientPanel1;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
+        private Guna.UI2.WinForms.Guna2TextBox otptbox1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox5;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox4;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox3;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
+        private Guna.UI2.WinForms.Guna2TextBox otptbox5;
+        private Guna.UI2.WinForms.Guna2TextBox otptbox4;
+        private Guna.UI2.WinForms.Guna2TextBox otptbox2;
+        private Guna.UI2.WinForms.Guna2TextBox otptbox3;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
         private LinkLabel linkLabel2;
         private LinkLabel linkLabel1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
+        private Guna.UI2.WinForms.Guna2Elipse guna2Elipse2;
     }
 }

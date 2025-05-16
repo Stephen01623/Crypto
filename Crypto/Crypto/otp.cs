@@ -12,14 +12,30 @@ namespace Crypto
 {
     public partial class otp : Form
     {
-        public otp()
+        private string userEmail;
+        public otp(string email)
         {
             InitializeComponent();
+            userEmail = email;
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
+            string otpcode = otptbox1.Text + otptbox2.Text + otptbox3.Text + otptbox4.Text + otptbox5.Text;
 
+
+            if (Verify.VerifyOtp(userEmail, otpcode))
+            {
+                MessageBox.Show("OTP verified successfully!");
+                this.Close(); 
+                Dashboard dashboard = new Dashboard();
+                dashboard.Show(); // Show the dashboard after successful OTP verification
+                 // Hide the OTP form
+            }
+            else
+            {
+                MessageBox.Show("Invalid OTP. Please try again.");
+            }
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

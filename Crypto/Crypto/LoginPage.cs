@@ -13,6 +13,9 @@ namespace Crypto
     public partial class LoginPage : UserControl
     {
         private homepage _home;
+       
+
+
         public LoginPage(homepage home)
         {
             InitializeComponent();
@@ -33,6 +36,8 @@ namespace Crypto
             string email = emailtbox.Text;
             string pass = passtbox.Text;
 
+            string userOTP = passtbox.Text;
+
             if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(pass))
             {
                 MessageBox.Show("Please fill in all fields.");
@@ -51,9 +56,12 @@ namespace Crypto
                 if (conn.ValidateLogin(email, pass))
                 {
                     MessageBox.Show("Login Succesfull");
-                    Dashboard dash = new Dashboard();
-                    dash.Show();
+                    otp otpForm = new otp(email);
+
+                    Verify.SendOtp(email);
+                    otpForm.Show();
                     _home.Hide();
+
 
                 }
                 else

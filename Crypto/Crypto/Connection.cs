@@ -13,10 +13,10 @@ namespace Crypto
 
         public Connection()
         {
-            string server = "localhost";
+            string server = "192.168.100.11";
             string database = "trydb";
-            string uid = "root";
-            string password = "";
+            string uid = "joed";
+            string password = "12345678";
             connectionString = $"SERVER={server};DATABASE={database};UID={uid};PASSWORD={password};";
         }
         public string GetConnectionString()
