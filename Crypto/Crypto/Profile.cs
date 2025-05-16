@@ -16,5 +16,35 @@ namespace Crypto
         {
             InitializeComponent();
         }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TextBox10_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TextBox10_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TextBox12_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TextBox15_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TextBox15_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
