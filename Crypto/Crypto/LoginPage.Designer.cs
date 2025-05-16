@@ -41,8 +41,6 @@
             guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             emailtbox = new Guna.UI2.WinForms.Guna2TextBox();
             passtbox = new Guna.UI2.WinForms.Guna2TextBox();
-            guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             guna2HtmlLabel4 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
@@ -77,16 +75,17 @@
             emailtbox.FillColor = Color.FromArgb(94, 94, 94);
             emailtbox.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
             emailtbox.Font = new Font("Segoe UI", 9F);
+            emailtbox.ForeColor = Color.White;
             emailtbox.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            emailtbox.Location = new Point(34, 139);
+            emailtbox.Location = new Point(34, 176);
             emailtbox.Margin = new Padding(3, 4, 3, 4);
             emailtbox.Name = "emailtbox";
-            emailtbox.PlaceholderText = "";
+            emailtbox.PlaceholderForeColor = Color.White;
+            emailtbox.PlaceholderText = "Email";
             emailtbox.SelectedText = "";
             emailtbox.ShadowDecoration.CustomizableEdges = customizableEdges2;
             emailtbox.Size = new Size(422, 51);
             emailtbox.TabIndex = 1;
-            emailtbox.TextChanged += guna2TextBox1_TextChanged;
             // 
             // passtbox
             // 
@@ -100,40 +99,17 @@
             passtbox.FillColor = Color.FromArgb(94, 94, 94);
             passtbox.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
             passtbox.Font = new Font("Segoe UI", 9F);
+            passtbox.ForeColor = Color.White;
             passtbox.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
             passtbox.Location = new Point(39, 244);
             passtbox.Margin = new Padding(3, 4, 3, 4);
             passtbox.Name = "passtbox";
-            passtbox.PlaceholderText = "";
+            passtbox.PlaceholderForeColor = Color.White;
+            passtbox.PlaceholderText = "Password";
             passtbox.SelectedText = "";
             passtbox.ShadowDecoration.CustomizableEdges = customizableEdges4;
             passtbox.Size = new Size(417, 51);
             passtbox.TabIndex = 2;
-            passtbox.TextChanged += passtbox_TextChanged;
-            // 
-            // guna2HtmlLabel2
-            // 
-            guna2HtmlLabel2.BackColor = Color.Transparent;
-            guna2HtmlLabel2.Font = new Font("Segoe UI Emoji", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2HtmlLabel2.ForeColor = Color.White;
-            guna2HtmlLabel2.Location = new Point(39, 107);
-            guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            guna2HtmlLabel2.Size = new Size(40, 22);
-            guna2HtmlLabel2.TabIndex = 3;
-            guna2HtmlLabel2.Text = "Email";
-            guna2HtmlLabel2.Click += guna2HtmlLabel2_Click_1;
-            // 
-            // guna2HtmlLabel3
-            // 
-            guna2HtmlLabel3.BackColor = Color.Transparent;
-            guna2HtmlLabel3.Font = new Font("Segoe UI Emoji", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            guna2HtmlLabel3.ForeColor = Color.White;
-            guna2HtmlLabel3.Location = new Point(34, 212);
-            guna2HtmlLabel3.Name = "guna2HtmlLabel3";
-            guna2HtmlLabel3.Size = new Size(65, 22);
-            guna2HtmlLabel3.TabIndex = 4;
-            guna2HtmlLabel3.Text = "Password";
-            guna2HtmlLabel3.Click += guna2HtmlLabel3_Click_1;
             // 
             // guna2Button1
             // 
@@ -157,11 +133,11 @@
             // guna2HtmlLabel4
             // 
             guna2HtmlLabel4.BackColor = Color.Transparent;
-            guna2HtmlLabel4.Font = new Font("Showcard Gothic", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            guna2HtmlLabel4.Font = new Font("Showcard Gothic", 25.8000011F, FontStyle.Regular, GraphicsUnit.Point, 0);
             guna2HtmlLabel4.ForeColor = Color.White;
-            guna2HtmlLabel4.Location = new Point(210, 44);
+            guna2HtmlLabel4.Location = new Point(142, 36);
             guna2HtmlLabel4.Name = "guna2HtmlLabel4";
-            guna2HtmlLabel4.Size = new Size(133, 35);
+            guna2HtmlLabel4.Size = new Size(208, 55);
             guna2HtmlLabel4.TabIndex = 6;
             guna2HtmlLabel4.Text = "Welcome";
             // 
@@ -185,7 +161,6 @@
             guna2Button2.Size = new Size(156, 58);
             guna2Button2.TabIndex = 7;
             guna2Button2.Text = "Google";
-            guna2Button2.Click += guna2Button2_Click;
             // 
             // guna2Button3
             // 
@@ -207,7 +182,6 @@
             guna2Button3.Size = new Size(156, 58);
             guna2Button3.TabIndex = 8;
             guna2Button3.Text = "Facebook";
-            guna2Button3.Click += guna2Button3_Click_1;
             // 
             // guna2CheckBox1
             // 
@@ -246,18 +220,18 @@
             guna2HtmlLabel5.Size = new Size(172, 22);
             guna2HtmlLabel5.TabIndex = 11;
             guna2HtmlLabel5.Text = "Already have an account?";
-            guna2HtmlLabel5.Click += guna2HtmlLabel5_Click;
             // 
             // linkLabel2
             // 
             linkLabel2.AutoSize = true;
             linkLabel2.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            linkLabel2.LinkColor = Color.White;
             linkLabel2.Location = new Point(318, 566);
             linkLabel2.Name = "linkLabel2";
-            linkLabel2.Size = new Size(52, 23);
+            linkLabel2.Size = new Size(70, 23);
             linkLabel2.TabIndex = 12;
             linkLabel2.TabStop = true;
-            linkLabel2.Text = "Login";
+            linkLabel2.Text = "Sign Up";
             linkLabel2.LinkClicked += linkLabel2_LinkClicked;
             // 
             // LoginPage
@@ -273,8 +247,6 @@
             Controls.Add(guna2Button2);
             Controls.Add(guna2HtmlLabel4);
             Controls.Add(guna2Button1);
-            Controls.Add(guna2HtmlLabel3);
-            Controls.Add(guna2HtmlLabel2);
             Controls.Add(passtbox);
             Controls.Add(emailtbox);
             Controls.Add(guna2HtmlLabel1);
@@ -282,7 +254,6 @@
             ForeColor = SystemColors.ActiveBorder;
             Name = "LoginPage";
             Size = new Size(503, 619);
-            Load += LoginPage_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -292,8 +263,6 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
         private Guna.UI2.WinForms.Guna2TextBox emailtbox;
         private Guna.UI2.WinForms.Guna2TextBox passtbox;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel4;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;

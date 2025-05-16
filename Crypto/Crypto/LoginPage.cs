@@ -12,78 +12,21 @@ namespace Crypto
 {
     public partial class LoginPage : UserControl
     {
-        public LoginPage()
+        private homepage _home;
+        public LoginPage(homepage home)
         {
             InitializeComponent();
+            _home = home;
         }
 
-        private void guna2Button1_Click(object sender, EventArgs e)
-        {
-           
-
-            
-           
-        }
-
-        private void guna2HtmlLabel3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2HtmlLabel2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void LoginPage_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2HtmlLabel2_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2TextBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2HtmlLabel3_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2Button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2Button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2Button3_Click_1(object sender, EventArgs e)
-        {
-
-        }
+       
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            _home.Showthisform(new Registerpage(_home));
         }
 
-        private void guna2HtmlLabel5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void passtbox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void guna2Button1_Click_1(object sender, EventArgs e)
         {
@@ -110,7 +53,8 @@ namespace Crypto
                     MessageBox.Show("Login Succesfull");
                     Dashboard dash = new Dashboard();
                     dash.Show();
-                    this.Hide();
+                    _home.Hide();
+
                 }
                 else
                 {

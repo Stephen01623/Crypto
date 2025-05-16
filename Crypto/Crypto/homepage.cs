@@ -23,13 +23,12 @@ namespace Crypto
             logpanel1.Controls.Clear();
             uc.Dock = DockStyle.Fill;
             logpanel1.Controls.Add(uc);
-            
+
         }
 
         private void homepage_Load(object sender, EventArgs e)
         {
-            LoginPage login = new LoginPage();
-            Showthisform(login);
+            Showthisform(new LoginPage(this));
         }
     }
 }
