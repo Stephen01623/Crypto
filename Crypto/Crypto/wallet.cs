@@ -141,5 +141,35 @@ namespace Crypto
         {
 
         }
+
+        private void guna2HtmlLabel14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel6_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel27_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2PictureBox5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel9_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
