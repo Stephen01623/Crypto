@@ -22,8 +22,37 @@ namespace Crypto
             string email = emailtbox.Text;
             string pass = passtbox.Text;
 
-            Connection conn = new Connection();
-            conn.Insert(email, pass);
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(pass))
+            {
+                MessageBox.Show("Please fill in all fields.");
+                return;
+            }
+            if (!email.Contains("@"))
+            {
+                MessageBox.Show("Please enter a valid email address.");
+                return;
+            }
+            else if (!pass.Contains("@")) {
+                MessageBox.Show("Please enter a valid password.");
+                return;
+            }
+            else if (pass.Length < 8)
+            {
+                MessageBox.Show("Password must be at least 8 characters long.");
+                return;
+            }
+            else
+            {
+                Connection conn = new Connection();
+                conn.ValidateLogin(email, pass);
+                MessageBox.Show("Login Succesfull");
+                Dashboard dash = new Dashboard();   
+                dash.Show();
+
+            }
+
+            
+           
         }
 
         private void guna2HtmlLabel3_Click(object sender, EventArgs e)
@@ -82,6 +111,11 @@ namespace Crypto
         }
 
         private void passtbox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button1_Click_1(object sender, EventArgs e)
         {
 
         }

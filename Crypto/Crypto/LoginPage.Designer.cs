@@ -152,6 +152,7 @@
             guna2Button1.Size = new Size(418, 78);
             guna2Button1.TabIndex = 5;
             guna2Button1.Text = "Submit";
+            guna2Button1.Click += guna2Button1_Click_1;
             // 
             // guna2HtmlLabel4
             // 
