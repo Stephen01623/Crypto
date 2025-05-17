@@ -1470,6 +1470,7 @@
             guna2TextBox1.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
             guna2TextBox1.Font = new Font("Segoe UI", 9F);
             guna2TextBox1.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
+            
             guna2TextBox1.IconLeftSize = new Size(30, 30);
             guna2TextBox1.Location = new Point(9, 17);
             guna2TextBox1.Name = "guna2TextBox1";
