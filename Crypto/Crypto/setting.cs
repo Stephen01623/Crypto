@@ -26,5 +26,20 @@ namespace Crypto
         {
 
         }
+
+        private void guna2Panel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2Panel8_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
