@@ -91,7 +91,7 @@
             // guna2PictureBox1
             // 
             guna2PictureBox1.CustomizableEdges = customizableEdges3;
-            guna2PictureBox1.Image = Properties.Resources.Logo;
+ 
             guna2PictureBox1.ImageRotate = 0F;
             guna2PictureBox1.Location = new Point(139, 47);
             guna2PictureBox1.Name = "guna2PictureBox1";

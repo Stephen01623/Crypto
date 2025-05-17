@@ -13,7 +13,7 @@ namespace Crypto
     public partial class LoginPage : UserControl
     {
         private homepage _home;
-       
+
 
 
         public LoginPage(homepage home)
@@ -22,14 +22,14 @@ namespace Crypto
             _home = home;
         }
 
-       
+
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             _home.Showthisform(new Registerpage(_home));
         }
 
-        
+
 
         private void guna2Button1_Click_1(object sender, EventArgs e)
         {
@@ -43,8 +43,8 @@ namespace Crypto
                 MessageBox.Show("Please fill in all fields.");
                 return;
             }
-           
-            
+
+
             else if (pass.Length < 8)
             {
                 MessageBox.Show("Password must be at least 8 characters long.");
@@ -68,9 +68,14 @@ namespace Crypto
                 {
                     MessageBox.Show("Invalid email or password.");
                 }
-                
+
 
             }
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
