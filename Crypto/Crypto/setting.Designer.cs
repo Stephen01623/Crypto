@@ -126,7 +126,7 @@
             guna2Panel2.Location = new Point(365, 26);
             guna2Panel2.Name = "guna2Panel2";
             guna2Panel2.ShadowDecoration.CustomizableEdges = customizableEdges18;
-            guna2Panel2.Size = new Size(802, 561);
+            guna2Panel2.Size = new Size(802, 732);
             guna2Panel2.TabIndex = 1;
             // 
             // guna2Panel6
